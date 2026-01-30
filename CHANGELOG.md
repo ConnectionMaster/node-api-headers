@@ -1,5 +1,19 @@
 # node-api-headers Changelog
 
+## [1.9.0](https://github.com/ConnectionMaster/node-api-headers/compare/v1.8.0...v1.9.0) (2026-01-30)
+
+
+### Features
+
+* **no-release:** add conditional support in `#if` ([#52](https://github.com/ConnectionMaster/node-api-headers/issues/52)) ([e1b8feb](https://github.com/ConnectionMaster/node-api-headers/commit/e1b8feb060cf85522538ec1b8a1d6eb782620022))
+* update headers from nodejs/node tag v22.7.0 ([#48](https://github.com/ConnectionMaster/node-api-headers/issues/48)) ([6c73c34](https://github.com/ConnectionMaster/node-api-headers/commit/6c73c34b72e836531530f863eac315bd42e4569e))
+* update headers from nodejs/node tag v23.1.0 ([#56](https://github.com/ConnectionMaster/node-api-headers/issues/56)) ([3336912](https://github.com/ConnectionMaster/node-api-headers/commit/33369124c7f8a670422a0c5a27ad149da83ed8d6))
+* update headers from nodejs/node tag v23.6.0 ([#57](https://github.com/ConnectionMaster/node-api-headers/issues/57)) ([64747b1](https://github.com/ConnectionMaster/node-api-headers/commit/64747b17a73e8356ed606d1b4dccb626804777f2))
+* update headers from nodejs/node tag v24.9.0 ([#60](https://github.com/ConnectionMaster/node-api-headers/issues/60)) ([5963ef9](https://github.com/ConnectionMaster/node-api-headers/commit/5963ef9937c8f6bd8f33cb45c50f70bd9cbc0ffd))
+* update headers from nodejs/node tag v25.1.0 ([#65](https://github.com/ConnectionMaster/node-api-headers/issues/65)) ([f90f754](https://github.com/ConnectionMaster/node-api-headers/commit/f90f75459375cb4725914895aa418efefdde7af2))
+* update headers from nodejs/node tag v25.2.1 ([#68](https://github.com/ConnectionMaster/node-api-headers/issues/68)) ([769031b](https://github.com/ConnectionMaster/node-api-headers/commit/769031b208acd820bf3f2c3b2cf9f8b4b2e2bd83))
+* update headers from nodejs/node tag v25.4.0 ([#70](https://github.com/ConnectionMaster/node-api-headers/issues/70)) ([ebc02e1](https://github.com/ConnectionMaster/node-api-headers/commit/ebc02e18357a4d49f127f094c144371948b60c84))
+
 ## [1.8.0](https://github.com/nodejs/node-api-headers/compare/v1.7.0...v1.8.0) (2026-01-23)
 
 
